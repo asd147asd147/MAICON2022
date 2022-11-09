@@ -1,0 +1,12 @@
+# System
+gpu_num: 0
+
+# Model
+train_serial: '20221109_023523' # ex) '20221012_174254'
+
+# Data
+batch_size: 4
+num_workers: 4
+
+# Logging
+verbose: false
